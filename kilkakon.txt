@@ -1,0 +1,29 @@
+Kilkakon's notes:
+
+1.0.7:
+
+64-bit support
+BornMascot attribute for the Breed action
+Allowed Behaviour menu
+
+1.0.6:
+
+Added premultiplying to the images so translucent images work now, yay!
+
+Also did some regexing to the behaviour list so it looks nicer
+
+1.0.5:
+
+I did some basic changes to the program to make this new version. I did make an effort to contact
+the original group but they didn't reply--so I'm releasing this as is, with full credit to them. :)
+
+So cheers shimeji-ee group!
+
+I may have accidentally pressed Alt+Shift+F in Netbeans in a few of the files because I can't stand 
+if (...) { style brackets. Sorry if that offends anybody. :O
+
+The main changes I made in this version:
+
+- settings.properties instead of windows.txt and ActiveShimeji
+- New form and renamed captions and reworked menus
+- Not showing form on load
